@@ -1,2 +1,2 @@
 # noheadshot-fiveM
-pour du support c'est ici : https://discord.gg/mhtsxr8K5h
+c'est pour les debilos qui n'use pas les natives fiveM
